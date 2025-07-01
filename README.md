@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Varshith</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=warshit&label=Profile%20views&color=0e75b6&style=flat" alt="warshit" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=warshit" alt="warshit" /></a> </p>
 
-- 🔭 I’m currently working on [NUVEX](htpp://nuvex.netlify.app)
+- 🔭 I’m currently working on [NUVEX](https://warshit.github.io/Nuvex/)
 
 - 🌱 I’m currently learning **Tailwind(Frontend)**
 
-- 👨‍💻 All of my projects are available at [Portfolio](htpp://baddams.netlify.app)
+- 👨‍💻 All of my projects are available at [baddams.app](https://baddams.netlify.app)
 
 - 📫 How to reach me **varshith.b0111@gmail.com**
 
