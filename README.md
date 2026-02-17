@@ -14,7 +14,7 @@
 
 - 🎯 Focused on **frontend development** & elegant design  
 - 🎨 UI/UX obsessed: striving for pixel-perfect interfaces  
-- 🌐 Portfolio: [baddams.app](https://portfolio-var11.netlify.app/#)  
+- 🌐 Portfolio: [baddams.app](https://vxfolio.vercel.app/#)  
 - 📫 Reach me: `varshith.b0111@gmail.com`  
 <!-- - 💼 Building [Nuvex](https://warshit.github.io/Nuvex/) – College News Portal " -->
 
