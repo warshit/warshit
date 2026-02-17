@@ -1,3 +1,4 @@
+
 <!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20Varshith%20👋&fontSize=35&fontColor=ffffff&fontAlign=38&desc=Frontend%20Developer%20|%20India&descAlign=62&descSize=18" />
@@ -77,8 +78,8 @@
 </p>
 
 ---
-
 <!-- Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=warshit&label=Profile%20views&color=0e75b6&style=flat" alt="loading..." /> </p>
