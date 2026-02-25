@@ -13,21 +13,10 @@
 
 ## 🌟 About Me
 
-- 🎯 Focused on **frontend development** & elegant design  
-- 🎨 UI/UX obsessed: striving for pixel-perfect interfaces  
-- 🌐 Portfolio: [baddams.app](https://vxfolio.vercel.app/#)  
-- 📫 Reach me: `varshith.b0111@gmail.com`  
-<!-- - 💼 Building [Nuvex](https://warshit.github.io/Nuvex/) – College News Portal " -->
-
+Hi, I’m Baddam Varshith, a Full-Stack Developer specializing in building scalable and high-performance web applications. I work with React, Tailwind CSS, Python, Java, MongoDB, and SQL to create efficient, user-focused solutions. With a strong foundation in computer science and hands-on project experience, I focus on clean architecture, maintainable code, and delivering real-world impact.
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=warshit&theme=algolia&margin-w=10&margin-h=15&no-frame=true&title=Followers,Stars,Commits,Repositories,PullRequest,Issues" />
-</p>
-
----
 
 ## 🔗 Connect with Me
 
