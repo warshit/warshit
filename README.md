@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Fullstack+Developer;TailwindCSS+Enthusiast;Clean+UI/UX+Lover;Building+Scalable+Web+Applications" />
 </div>
 
----
+
 
 ### 🌟 About Me
 
@@ -45,7 +45,7 @@ Feel free to connect or explore my work below.
 <a href="https://linkedin.com/in/varshith-b-98051a28b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://vxfolio.vercel.app/#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a><a href="mailto:varshith.b0111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
----
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
